@@ -1,3 +1,8 @@
+#用python完成 數字與字串兩類變數的宣告
+varInt = 100
+varStr = '100'
+print(varInt, varStr)
+
 my_list = [1, 2, 3, 4, 5]
 my_list.append(6)
 print(my_list)
